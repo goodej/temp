@@ -1,0 +1,62 @@
+{
+    "name": "bad_bitches_make_good_witches",
+    "description": "Okay, buckle up, buttercup. If you\u2019re less Cinderella and more Maleficent, then it's time to embrace your inner bad bitch with our \"Bad Bitches Make Good Witches\" candle. Sure to be a classy addition to your Halloween party decor this year, this candle is for the women who aren\u2019t afraid to stir the pot, break the rules, and own their power. \n\nForget waiting for Prince Charming. Light this baby up, inhale the enchanting aroma, and conjure your own happily ever after. Because a little mischief never hurt anyone...except maybe those who underestimated you. Now, go forth and conquer, queen. The world needs your magic.",
+    "tags": [
+        "Soy Wax Candle",
+        "Funny Gift Ideas",
+        "Funny Candles",
+        "Bad Bitch Candle",
+        "Good Witch Vibes",
+        "Boss Babe Gift",
+        "Feminist Candle",
+        "Empowerment Gift",
+        "Goddess Energy",
+        "Magic Affirmation",
+        "Girl Power",
+        "Strong Women",
+        "Halloween Candle"
+    ],
+    "price": 25.0,
+    "shop": "The Workshop Project",
+    "label": {
+        "text_color": "#010101",
+        "text_color_2": "#010101",
+        "background_color": "#f9f9f9",
+        "main_label": {
+            "text": "Bad Bitches\nMake\nGood Witches",
+            "layer": "Label Main",
+            "font_size": 24
+        },
+        "font": "default.otf",
+        "template": "products\\candles\\templates\\template_default.psd"
+    },
+    "mockup": {
+        "background_color": "#e57e2a",
+        "dark_bg_gradient": "True",
+        "templates": {
+            "front": {
+                "path": "front_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective": {
+                "path": "perspective_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective_lit": {
+                "path": "perspective_lit_mockup.psd",
+                "x_offset": 210
+            }
+        }
+    },
+    "scents": {
+        "template": "scents.psd",
+        "descriptions": "./scent_descriptions.json"
+    },
+    "delivery": {
+        "template": "shipping.psd"
+    },
+    "product": {
+        "name": "lumient_candle",
+        "provider": "lumient"
+    }
+}

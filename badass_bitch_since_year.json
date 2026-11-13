@@ -1,0 +1,62 @@
+{
+    "name": "badass_bitch_since_year",
+    "description": "Ever felt like you\u2019ve been navigating life\u2019s glorious dumpster fires and still managed to look fabulous since before \"adulting\" was a trendy hashtag? Like you\u2019ve spent decades perfecting the art of the strategic eye-roll, the power glance, and the 'don't mess with me' aura, often simultaneously? We thought so.\n\nIntroducing our \"Badass Bitch Since 1983\" candle \u2013 a fragrant tribute to the legends who've been expertly kicking ass for decades. Crafted from 100% natural soy wax and infused with our unapologetically bold scents, this isn't just a candle; it's a high-five in wax form to your unwavering resilience and impeccable taste.\n\nThis candle is a reminder that you've earned every bit of your legendary status, a beacon celebrating your humor, your strength, and your unwavering ability to get sh*t done. So, pour yourself a drink, light this beauty, and let your inner badass bask in the glow you've more than earned.",
+    "tags": [
+        "Soy Wax Candle",
+        "Funny Gift Ideas",
+        "Funny Candles",
+        "Badass Bitch",
+        "1983 Birthday",
+        "Empowered Woman",
+        "Sassy Gifts",
+        "Boss Lady",
+        "Queen Energy",
+        "Gift for Her",
+        "Attitude Candle",
+        "Retro 80s Gift",
+        "Fierce Female"
+    ],
+    "price": 21.95,
+    "shop": "The Workshop Project",
+    "label": {
+        "text_color": "#010101",
+        "text_color_2": "#010101",
+        "background_color": "#f9f9f9",
+        "main_label": {
+            "text": "Badass Bitch\nSince 1983",
+            "layer": "Label Main",
+            "font_size": 24
+        },
+        "font": "default.otf",
+        "template": "products\\candles\\templates\\template_default.psd"
+    },
+    "mockup": {
+        "background_color": "#89a8b2",
+        "dark_bg_gradient": "False",
+        "templates": {
+            "front": {
+                "path": "front_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective": {
+                "path": "perspective_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective_lit": {
+                "path": "perspective_lit_mockup.psd",
+                "x_offset": 210
+            }
+        }
+    },
+    "scents": {
+        "template": "scents.psd",
+        "descriptions": "./scent_descriptions.json"
+    },
+    "delivery": {
+        "template": "shipping.psd"
+    },
+    "product": {
+        "name": "lumient_candle",
+        "provider": "lumient"
+    }
+}

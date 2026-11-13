@@ -1,0 +1,67 @@
+{
+    "name": "butter_my_biscuit (clone)",
+    "description": "Trying to find the right words to express how you feel about that someone special?  You're in luck, my friend, behold the \"You're the Butter to My Biscuit\" candle \u2013 a deliciously scented testament to the perfect pairing.  Salty, sweet, and utterly irresistible, just like that someone in your life.\n\nThis will make a perfect gift for Valentine's day! Light it up, breathe in the delightful aroma, and remember that even when life throws you a soggy bottom, you've got someone who complements you perfectly.  Because sometimes, all you need is a little bit of salty, sweet, and utterly irresistible goodness to remind you that you're not just a biscuit, you're a damn *fine* biscuit.\n",
+    "tags": [
+        "Soy Wax Candle",
+        "Funny Gift Ideas",
+        "Funny Candles",
+        "Perfect Pair Candle",
+        "Couple's Candle Gift",
+        "Relationship Candle",
+        "Romantic Candle Gift",
+        "Witty Candle Gift",
+        "Unique Candle Gift",
+        "Valentine's Day Gift",
+        "V-Day Gift",
+        "Wife Gift",
+        "Husband Gift"
+    ],
+    "price": 21.95,
+    "shop": "The Workshop Project",
+    "label": {
+        "text_color": "#ffffff",
+        "text_color_2": "#ffffff",
+        "background_color": "#d12c2c",
+        "main_label": {
+            "text": "You're the butter\nto my biscuit",
+            "layer": "Label Main",
+            "font_size": 24
+        },
+        "font": "default.otf",
+        "sub_label": {
+            "text": "Salty, Sweet, & utterly irresistible",
+            "layer": "Label Sub",
+            "font_size": 12
+        },
+        "template": "products\\candles\\templates\\template_default.psd"
+    },
+    "mockup": {
+        "background_color": "#f9d9d9",
+        "dark_bg_gradient": 0,
+        "templates": {
+            "front": {
+                "path": "front_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective": {
+                "path": "perspective_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective_lit": {
+                "path": "perspective_lit_mockup.psd",
+                "x_offset": 210
+            }
+        }
+    },
+    "scents": {
+        "template": "scents.psd",
+        "descriptions": "./scent_descriptions.json"
+    },
+    "delivery": {
+        "template": "shipping.psd"
+    },
+    "product": {
+        "name": "lumient_candle",
+        "provider": "lumient"
+    }
+}

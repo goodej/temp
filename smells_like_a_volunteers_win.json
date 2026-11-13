@@ -1,0 +1,67 @@
+{
+    "name": "smells_like_a_volunteers_win",
+    "description": "Bring that Tennessee team spirit this year with our \"Smells Like a Volunteers Win - My Lucky Game Day Candle.\" Perfect for die-hard Vols fans, cautious optimists, and anyone trying to manifest a miracle in the 4th quarter.\n\nInfused with the invigorating scent of victory, tailgate vibes, and a hint of Rocky Top spice. Light it up before the game, and let the aroma summon some Neyland magic. Blame the refs after.",
+    "tags": [
+        "Soy Wax Candle",
+        "Funny Gift Ideas",
+        "Funny Candles",
+        "Game Day",
+        "Tennessee",
+        "Lucky Candle",
+        "Sports Candle",
+        "Victory Scent",
+        "Go Vols",
+        "Football Season",
+        "Team Spirit",
+        "Volunteers Fan",
+        "Vols Fan Gift"
+    ],
+    "price": 25.0,
+    "shop": "The Workshop Project",
+    "label": {
+        "text_color": "#ffffff",
+        "text_color_2": "#ffffff",
+        "background_color": "#ff8200",
+        "main_label": {
+            "text": "Smells Like\na Volunteers Win ",
+            "layer": "Label Main",
+            "font_size": 24
+        },
+        "font": "default.otf",
+        "sub_label": {
+            "text": "My Lucky \nGame Day Candle",
+            "layer": "Label Sub",
+            "font_size": 12
+        },
+        "template": "products\\candles\\templates\\template_default.psd"
+    },
+    "mockup": {
+        "background_color": "#58595b",
+        "dark_bg_gradient": "False",
+        "templates": {
+            "front": {
+                "path": "front_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective": {
+                "path": "perspective_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective_lit": {
+                "path": "perspective_lit_mockup.psd",
+                "x_offset": 210
+            }
+        }
+    },
+    "scents": {
+        "template": "scents.psd",
+        "descriptions": "./scent_descriptions.json"
+    },
+    "delivery": {
+        "template": "shipping.psd"
+    },
+    "product": {
+        "name": "lumient_candle",
+        "provider": "lumient"
+    }
+}

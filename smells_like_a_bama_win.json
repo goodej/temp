@@ -1,0 +1,67 @@
+{
+    "name": "smells_like_a_bama_win",
+    "description": "Is your Saturday spirit sagging faster than a missed field goal against Auburn? Then you need our \u201cSmells Like a Bama Win\" candle - your new unofficial game day MVP and a great gift for any Alabama fan.\n\nThis isn\u2019t just wax in a jar. Oh no. This baby\u2019s packed with the kind of magic that turns nervous pacing into confident swagger. Made from 100% natural soy wax and scented with pure, unfiltered Crimson Tide glory, it smells like Saban-era dominance, fourth-quarter comebacks, and just a hint of \u201cBless your heart, y\u2019all tried.\u201d\n\nWhether you're riding high after a W or trying to candle-cure a heartbreak loss, this little flame brings the W energy straight to your living room. Perfect for tailgates, tense living rooms, or just casually reminding everyone that \u201cIt just means more\u201d in the SEC - especially in Tuscaloosa.\n\nBecause let\u2019s face it - even when we\u2019re rebuilding, we\u2019re still better than most.\nRoll Tide, baby.",
+    "tags": [
+        "Soy Wax Candle",
+        "Funny Candles",
+        "Game Day Scent",
+        "Victory Candle",
+        "Lucky Candle",
+        "Football Candle",
+        "Sports Candle",
+        "SEC Football",
+        "home decor gift",
+        "Stocking Stuffer",
+        "Alabama Fan Gift",
+        "Crimson Tide Fans",
+        "Bama Roll Tide"
+    ],
+    "price": 21.95,
+    "shop": "The Workshop Project",
+    "label": {
+        "text_color": "#ffffff",
+        "text_color_2": "#ffffff",
+        "background_color": "#9e1b32",
+        "main_label": {
+            "text": "Smells Like\na BAMA Win",
+            "layer": "Label Main",
+            "font_size": 24
+        },
+        "font": "default.otf",
+        "sub_label": {
+            "text": "My lucky \ngame day candle",
+            "layer": "Label Sub",
+            "font_size": 12
+        },
+        "template": "products\\candles\\templates\\template_default.psd"
+    },
+    "mockup": {
+        "background_color": "#828a8f",
+        "dark_bg_gradient": "True",
+        "templates": {
+            "front": {
+                "path": "front_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective": {
+                "path": "perspective_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective_lit": {
+                "path": "perspective_lit_mockup.psd",
+                "x_offset": 210
+            }
+        }
+    },
+    "scents": {
+        "template": "scents.psd",
+        "descriptions": "./scent_descriptions.json"
+    },
+    "delivery": {
+        "template": "shipping.psd"
+    },
+    "product": {
+        "name": "lumient_candle",
+        "provider": "lumient"
+    }
+}

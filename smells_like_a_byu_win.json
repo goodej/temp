@@ -1,0 +1,67 @@
+{
+    "name": "smells_like_a_byu_win",
+    "description": "Ever felt your stomach tie itself in knots tighter than a poorly thrown spiral when game day looms? Or experienced the kind of heart palpitations usually reserved for first dates, only it\u2019s because the referee made *that* call? Let's face it, being a dedicated sports fan is less about cheering and more about advanced cardiology and high-stakes stress management.\n\nWell, put down the antacids and light up the good times! We've bottled the sweet, sweet aroma of pure, unadulterated triumph with our **\"Smells Like a Cougars Win\" candle \u2013 My lucky game day candle.**\n\nCrafted from 100% natural soy wax (because you deserve a clean burn, not a penalty), this isn't just a candle; it's your personal gridiron guru, your court-side confidante, and your pitch-perfect good luck charm. Infused with the legendary scent of victory (which, rumor has it, is a delightful blend of fresh turf, celebratory champagne, and the faint, sweet smell of a rival team's shattered dreams), this candle is designed to transform your living room into a champion's locker room, minus the questionable hygiene and motivational speeches from a coach with a clipboard.\n\nLight it up before kick-off, during those nail-biting fourth-quarter moments, or simply to manifest good vibes for the entire season. As the flame dances, imagine every pass complete, every shot swishing, every tackle perfect, and every point scored. Let the glorious aroma wash over you, banishing pre-game jitters and reminding you that win or lose, at least your house smells like a winner.\n\nBecause why rely solely on lucky jerseys, elaborate superstitious rituals, or screaming at the TV when you can literally light up a winning atmosphere? It's like having a guaranteed good omen, only it\u2019s much better smelling than those old college socks you keep around for \"luck.\"\n\nSo, when life feels like it's thrown a yellow flag on your parade, grab your \"Smells Like a Cougars Win\" candle. Embrace the warmth, enjoy the victorious aroma, and remember: sometimes laughter (and a fantastic smelling victory) is the best medicine, even when your team decides to make things *interesting* in the final minute.",
+    "tags": [
+        "Soy Wax Candle",
+        "Funny Gift Ideas",
+        "Funny Candles",
+        "Cougars Fan Gift",
+        "Game Day Scent",
+        "Winning Scent",
+        "Team Spirit Candle",
+        "Lucky Game Candle",
+        "Victory Candle",
+        "College Football",
+        "Football Fan Gift",
+        "Team Pride",
+        "BYU Fan Gift"
+    ],
+    "price": 21.95,
+    "shop": "The Workshop Project",
+    "label": {
+        "text_color": "#ffffff",
+        "text_color_2": "#fef4d7",
+        "background_color": "#0057b8",
+        "main_label": {
+            "text": "Smells Like\na Cougars Win",
+            "layer": "Label Main",
+            "font_size": 24
+        },
+        "font": "default.otf",
+        "sub_label": {
+            "text": "My lucky \ngame day candle",
+            "layer": "Label Sub",
+            "font_size": 12
+        },
+        "template": "products\\candles\\templates\\template_default.psd"
+    },
+    "mockup": {
+        "background_color": "#002e5d",
+        "dark_bg_gradient": "False",
+        "templates": {
+            "front": {
+                "path": "front_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective": {
+                "path": "perspective_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective_lit": {
+                "path": "perspective_lit_mockup.psd",
+                "x_offset": 210
+            }
+        }
+    },
+    "scents": {
+        "template": "scents.psd",
+        "descriptions": "./scent_descriptions.json"
+    },
+    "delivery": {
+        "template": "shipping.psd"
+    },
+    "product": {
+        "name": "lumient_candle",
+        "provider": "lumient"
+    }
+}

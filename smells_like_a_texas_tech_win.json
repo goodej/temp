@@ -1,0 +1,67 @@
+{
+    "name": "smells_like_a_texas_tech_win",
+    "description": "Tired of white-knuckling your way through another Texas Tech game?  Then you need our \u201cSmells Like a Texas Tech Win\u201d candle - your new favorite pre-game superstition, emotional support system, and rally cry all rolled into one.\n\nHand-poured from 100% natural soy wax and scented with bold notes of desert winds, gameday adrenaline, and the faint aroma of tortilla confetti raining down from the stands - this candle is here to carry you through fourth-down drama and overtime miracles.\n\nIt\u2019s rugged, defiant, and as comforting as a double-OT comeback in The Jones. Whether you\u2019re lighting it for good luck, trying to calm your nerves during a goal-line stand, or just covering up the scent of nervous nachos, this candle rides with you - guns up.\n\nA must-have for any Red Raider who believes in grit, guts, and that this just might be the year we shock the world.\n\nWreck \u2018Em Tech!",
+    "tags": [
+        "Soy Wax Candle",
+        "Funny Candles",
+        "Game Day Scent",
+        "Victory Candle",
+        "Lucky Candle",
+        "Football Candle",
+        "Sports Candle",
+        "home decor gift",
+        "Stocking Stuffer",
+        "Big 12 Football",
+        "CFB Playoff Gift",
+        "Red Raiders Fan Gift",
+        "Texas Tech Fan Gift"
+    ],
+    "price": 21.95,
+    "shop": "The Workshop Project",
+    "label": {
+        "text_color": "#f7f7f7",
+        "text_color_2": "#eeedeb",
+        "background_color": "#cc0000",
+        "main_label": {
+            "text": "Smells Like\na Texas Tech Win",
+            "layer": "Label Main",
+            "font_size": 24
+        },
+        "font": "default.otf",
+        "sub_label": {
+            "text": "My lucky \ngame day candle",
+            "layer": "Label Sub",
+            "font_size": 12
+        },
+        "template": "products\\candles\\templates\\template_default.psd"
+    },
+    "mockup": {
+        "background_color": "#3d3d3d",
+        "dark_bg_gradient": "True",
+        "templates": {
+            "front": {
+                "path": "front_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective": {
+                "path": "perspective_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective_lit": {
+                "path": "perspective_lit_mockup.psd",
+                "x_offset": 210
+            }
+        }
+    },
+    "scents": {
+        "template": "scents.psd",
+        "descriptions": "./scent_descriptions.json"
+    },
+    "delivery": {
+        "template": "shipping.psd"
+    },
+    "product": {
+        "name": "lumient_candle",
+        "provider": "lumient"
+    }
+}

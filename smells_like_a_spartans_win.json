@@ -1,0 +1,67 @@
+{
+    "name": "smells_like_a_spartans_win",
+    "description": "Feeling down in the dumps?  Like your Spartans just suffered a devastating loss (don't worry, we've all been there).  Then you NEED the \"Smells Like a Spartans Win\" candle.\n\nThis isn't your average game-day scent.  Forget stale beer and overpriced concessions \u2013 this candle evokes the *feeling* of victory, even if the scoreboard tells a different story.  We've harnessed the intoxicating aroma of pure, unadulterated triumph (with a dash of celebratory champagne, naturally). It's the scent of last-minute touchdowns, miraculous interceptions, and the sweet, sweet sound of opposing fans leaving the stadium early.\n\nA great addition to any Michigan State fan's collection. Because let's be honest, sometimes the best way to cope with a loss is to smell like a win. Go Sparty!\n \n",
+    "tags": [
+        "Soy Wax Candle",
+        "Funny Gift Ideas",
+        "Funny Candles",
+        "Game Day Candle",
+        "Lucky Candle",
+        "Victory Candle",
+        "Football Gift",
+        "Sports Candle",
+        "Team Spirit Candle",
+        "home decor gift",
+        "Michigan State Fan",
+        "Spartans Fan Gift",
+        "MSU Fan Gift"
+    ],
+    "price": 25.0,
+    "shop": "The Workshop Project",
+    "label": {
+        "text_color": "#ffffff",
+        "text_color_2": "#ffffff",
+        "background_color": "#18453b",
+        "main_label": {
+            "text": "Smells Like\na Spartans Win",
+            "layer": "Label Main",
+            "font_size": 24
+        },
+        "font": "default.otf",
+        "sub_label": {
+            "text": "My lucky \ngame day candle",
+            "layer": "Label Sub",
+            "font_size": 12
+        },
+        "template": "products\\candles\\templates\\template_default.psd"
+    },
+    "mockup": {
+        "background_color": "#ffffff",
+        "dark_bg_gradient": "True",
+        "templates": {
+            "front": {
+                "path": "front_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective": {
+                "path": "perspective_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective_lit": {
+                "path": "perspective_lit_mockup.psd",
+                "x_offset": 210
+            }
+        }
+    },
+    "scents": {
+        "template": "scents.psd",
+        "descriptions": "./scent_descriptions.json"
+    },
+    "delivery": {
+        "template": "shipping.psd"
+    },
+    "product": {
+        "name": "lumient_candle",
+        "provider": "lumient"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "name": "smells_like_a_hoosiers_win",
+    "description": "Tired of white-knuckling your way through another Hoosiers game?  Then you need our \u201cSmells Like a Hoosiers Win\u201d candle - your new favorite pre-game ritual (or coping mechanism, no judgment).\n\nCrafted from 100% natural soy wax and infused with a scent that says, \u201cWe might not always win, but we sure know how to show up,\u201d this candle is your courtside companion through buzzer-beaters, bracket dreams, and the eternal hope that this is the season.\n\nIt\u2019s warm, nostalgic, and as comforting as a candy-striped warm-up pant. Whether you're lighting it for good luck before tip-off or just trying to mask the scent of fourth-quarter stress sweat, this candle's got your back like Bobby Knight had that chair.\n\nA must-have for any Indiana fan who believes - truly, deeply, and sometimes irrationally - that the Hoosiers are due.\nGo Big Red!",
+    "tags": [
+        "Soy Wax Candle",
+        "Funny Candles",
+        "Game Day Scent",
+        "Victory Candle",
+        "Lucky Candle",
+        "Football Candle",
+        "Sports Candle",
+        "home decor gift",
+        "Stocking Stuffer",
+        "Big Ten Football",
+        "Indiana Football",
+        "Hoosiers Fan Gift",
+        "Indiana Hoosiers Fan"
+    ],
+    "price": 25.0,
+    "shop": "The Workshop Project",
+    "label": {
+        "text_color": "#eeedeb",
+        "text_color_2": "#eeedeb",
+        "background_color": "#990000",
+        "main_label": {
+            "text": "Smells Like\na Hoosiers Win",
+            "layer": "Label Main",
+            "font_size": 24
+        },
+        "font": "default.otf",
+        "sub_label": {
+            "text": "My lucky \ngame day candle",
+            "layer": "Label Sub",
+            "font_size": 12
+        },
+        "template": "products\\candles\\templates\\template_default.psd"
+    },
+    "mockup": {
+        "background_color": "#eeedeb",
+        "dark_bg_gradient": "False",
+        "templates": {
+            "front": {
+                "path": "front_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective": {
+                "path": "perspective_mockup.psd",
+                "x_offset": 230
+            },
+            "perspective_lit": {
+                "path": "perspective_lit_mockup.psd",
+                "x_offset": 210
+            }
+        }
+    },
+    "scents": {
+        "template": "scents.psd",
+        "descriptions": "./scent_descriptions.json"
+    },
+    "delivery": {
+        "template": "shipping.psd"
+    },
+    "product": {
+        "name": "lumient_candle",
+        "provider": "lumient"
+    }
+}
